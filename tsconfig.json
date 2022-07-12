@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "module": "esnext",
+    "allowJs": true,
+    "target": "es5",
+  }
+}
